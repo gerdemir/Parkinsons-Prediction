@@ -11,7 +11,7 @@ Machine learning model(SVC) trained on a Parkinson's disease dataset. To save th
 
 Dataset
 
-The dataset used in this project is the PArkinson's Disease dataset. www.kaggle.com/datasets/thecansin/parkinsons-data-set
+The dataset used in this project is the Parkinson's Disease dataset. www.kaggle.com/datasets/thecansin/parkinsons-data-set
 
 Dataset Citation: 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
 
